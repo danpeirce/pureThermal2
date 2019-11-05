@@ -6,6 +6,15 @@ Screen capture of VLC Media Player during first use of PureThermal2
 
 This was taken on a windows 10 computer.
 
+## Connecting to the Device using VLC Media Player
+
+I have no prior experience with VLC Media Player. The following shows how I connected to the device.
+Note this gave a slow update of about one frame a second. Changing some setting will likely speed that up.
+
+![](images/vlc-open01.jpg)
+
+![](images/vlc-device.jpg)
+
 ## Inserting Camera into Board
  
 Used image at [https://groupgets.com/manufacturers/getlab/products/purethermal-2-flir-lepton-smart-i-o-module](https://groupgets.com/manufacturers/getlab/products/purethermal-2-flir-lepton-smart-i-o-module)

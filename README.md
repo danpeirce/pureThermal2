@@ -15,6 +15,26 @@ Note this gave a slow update of about one frame a second. Changing some setting 
 
 ![](images/vlc-device.jpg)
 
+## Connecting to the Device using FLIR Lepton Application
+
+It is more straight forward to connect to the image using the FLIR Lepton Application as it is specific to the device.
+
+![](images/leptonImage.jpg)
+
+There is also a starter users guide to using this the pureThermal2 and the FLIR Lepton Application.
+
+* [PureThermal-2-Basic-Lepton-Features.pdf](https://lepton.flir.com/wp-content/uploads/2015/06/PureThermal-2-Basic-Lepton-Features.pdf)
+
+The first time I downloaded it they asked for contact information.
+
+The install file can be found here:
+
+* [LeptonUserApp](https://lepton.flir.com/wp-content/uploads/2015/06/LeptonUserApp_1.3.2.msi_.zip)
+
+Those links and more were found here:
+
+* [https://lepton.flir.com/software-sdk/](https://lepton.flir.com/software-sdk/)
+
 ## Inserting Camera into Board
  
 Used image at [https://groupgets.com/manufacturers/getlab/products/purethermal-2-flir-lepton-smart-i-o-module](https://groupgets.com/manufacturers/getlab/products/purethermal-2-flir-lepton-smart-i-o-module)

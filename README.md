@@ -37,7 +37,7 @@ Those links and more were found here:
 
 ### Image of hand - USB Flash Drive - Mouse
 
-Example photo that includes my hand on the lower left, a usb flash drive on the upper right and a optical mouse on the lower left.
+Example photo that includes my hand on the lower left, a usb flash drive on the upper right and a optical mouse on the lower right.
 
 ![](images/hand-flashdrive-mouse.jpg)
 

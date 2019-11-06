@@ -35,6 +35,12 @@ Those links and more were found here:
 
 * [https://lepton.flir.com/software-sdk/](https://lepton.flir.com/software-sdk/)
 
+### Image of hand - USB Flash Drive - Mouse
+
+Example photo that includes my hand on the lower left, a usb flash drive on the upper right and a optical mouse on the lower left.
+
+![](images/hand-flashdrive-mouse.jpg)
+
 ## Inserting Camera into Board
  
 Used image at [https://groupgets.com/manufacturers/getlab/products/purethermal-2-flir-lepton-smart-i-o-module](https://groupgets.com/manufacturers/getlab/products/purethermal-2-flir-lepton-smart-i-o-module)

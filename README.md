@@ -97,3 +97,20 @@ So I'm thinking we can mount it in a case. There are four mounting holes in the 
     surfaces of the window are anti-reflection (AR) coated.) Note that the window should be sized large enough to avoid 
     encroaching upon the optical keep-out zone (see Optical Considerations, page 69)
 ~~~~
+
+## 3D Printed Case
+
+STL files are available for a case so we will try printing it.
+
+* A link was provided at [https://groupgets.com/manufacturers/getlab/products/purethermal-2-flir-lepton-smart-i-o-module](https://groupgets.com/manufacturers/getlab/products/purethermal-2-flir-lepton-smart-i-o-module)
+    * The link copied here: [PureThermal 2 Case, STL Files](https://groupgets-files.s3.amazonaws.com/PT2/PT2_Case.zip)
+	
+I used free openSCAD to have a look at the part before deciding to print it. Github has a built in STL viewer and the files are not 
+particularly large so I thought I'd post them here for viewing. The link that they were obtained from is given above. The license was provided by
+a link:
+
+* [https://creativecommons.org/licenses/by-nc/3.0/us/](https://creativecommons.org/licenses/by-nc/3.0/us/)
+
+It is permissive CC with attribution and allows redistribution and alteration so long as the license link is provided along with the files. 
+These files are as we obtained them so far except I took the spaces out of the file names. See the 3d-print folder in this repository.
+

@@ -114,6 +114,6 @@ a link:
 It is permissive CC with attribution and allows redistribution and alteration so long as the license link is provided along with the files. 
 These files are as we obtained them so far except I took the spaces out of the file names. See the 3d-print folder in this repository.
 
-Printing using a [FORMLABS FORM 2 SLA 3D PRINTER]().
+Printing using a FORMLABS FORM 2 SLA 3D PRINTER
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8a2xNaAkvLo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+* [How SLA Works -- youtube](https://youtu.be/8a2xNaAkvLo)

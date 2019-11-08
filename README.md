@@ -114,6 +114,14 @@ a link:
 It is permissive CC with attribution and allows redistribution and alteration so long as the license link is provided along with the files. 
 These files are as we obtained them so far except I took the spaces out of the file names. See the 3d-print folder in this repository.
 
-Printing using a FORMLABS FORM 2 SLA 3D PRINTER
+### Printed case using a FORMLABS FORM 2 SLA 3D PRINTER
 
 * [How SLA Works -- youtube](https://youtu.be/8a2xNaAkvLo)
+
+!{pureThermal2-case}(images/pureThermal2-case.jpg)
+
+!{pureThermal2-case-side}(images/pureThermal2-case-side.jpg)
+
+!{pureThermal2-tripod}(images/pureThermal2-tripod.jpg)
+
+!{from-tripod}(images/from-tripod.jpg)

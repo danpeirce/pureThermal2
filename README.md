@@ -118,10 +118,24 @@ These files are as we obtained them so far except I took the spaces out of the f
 
 * [How SLA Works -- youtube](https://youtu.be/8a2xNaAkvLo)
 
+I'm not sure if the case is tight enough to keep the camera module firmly in the socket. Only time will tell. When I took the camera off 
+the shelf today to put it in the case the module had worked its way out and I had to click it back into place. I did that wearing the 
+anti static strap. Hopefully the case will be enough to keep the module snug in the socket during transport and storage.  There is no danger 
+of the camera falling completely out of the socket  while the camera is in the case.
+
+The case is translucent so one can see the flashing LED through the case. It flashes at a slow rate when 
+first connected to the computer. The flash rate is much faster when the software is opened and connected.
+
 ![pureThermal2-case](images/pureThermal2-case.jpg)
+
+I was careful to avoid over tightening​ the mounting screw in the 3d printed case. The hole in the case was the right 
+size for the screw but was not pre threaded. I'm worried if one makes it any tighter that the case might crack.
 
 ![pureThermal2-case-side](images/pureThermal2-case-side.jpg)
 
 ![pureThermal2-tripod](images/pureThermal2-tripod.jpg)
 
+The camera is upside down when the case is on the tripod so I used both filp horizontal and vertical in the software. 
+
 ![from-tripod](images/from-tripod.jpg)
+

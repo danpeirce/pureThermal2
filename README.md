@@ -118,10 +118,10 @@ These files are as we obtained them so far except I took the spaces out of the f
 
 * [How SLA Works -- youtube](https://youtu.be/8a2xNaAkvLo)
 
-!{pureThermal2-case}(images/pureThermal2-case.jpg)
+![pureThermal2-case](images/pureThermal2-case.jpg)
 
-!{pureThermal2-case-side}(images/pureThermal2-case-side.jpg)
+![pureThermal2-case-side](images/pureThermal2-case-side.jpg)
 
-!{pureThermal2-tripod}(images/pureThermal2-tripod.jpg)
+![pureThermal2-tripod](images/pureThermal2-tripod.jpg)
 
-!{from-tripod}(images/from-tripod.jpg)
+![from-tripod](images/from-tripod.jpg)
